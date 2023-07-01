@@ -1,0 +1,14 @@
+html{
+    font-size:2rem;
+    border:2px ridge;
+    margin:10em;
+    padding:0.5rem;
+}
+form{
+    border:1px solid black;
+    padding:1rem;
+    width:30rem;
+}
+button,input,textarea{
+    font:inherit;
+}

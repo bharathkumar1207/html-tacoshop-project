@@ -1,0 +1,10 @@
+html{
+    font-size:2rem;
+    border:2px ridge;
+    margin:10em;
+    padding:2rem;
+}
+table,th,td{
+    border:2px double black;
+    padding:0.3em;
+}
